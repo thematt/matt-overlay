@@ -10,7 +10,7 @@ inherit cmake-utils git-2
 
 DESCRIPTION="Oxygen-appmenu is an oxygen style for kwin displaying application menu in titlebar (via menu button)"
 HOMEPAGE="http://kde-look.org/content/show.php?content=141254"
-EGIT_REPO_URI="git://anongit.kde.org/scratch/cedric/oxygen-appmenu.git"
+EGIT_REPO_URI="git://anongit.kde.org/scratch/cedric/"
 
 LICENSE="GPL-2 LGPL-2"
 KEYWORDS=""
