@@ -16,7 +16,7 @@ SRC_URI="http://dev.gentoo.org/~jlec/distfiles/${P}.tar.bz2"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS="~amd64 ~ia64 ~ppc ~ppc64 ~sparc ~x86"
+KEYWORDS="amd64 ~ia64 ~ppc ~ppc64 ~sparc ~x86"
 IUSE="X cuda static-libs"
 
 RDEPEND="
